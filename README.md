@@ -1,4 +1,4 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+# Title of Project: [SkillMatcher]
 
 ## Team Members:
 1. [SHIVAM RAJ]
