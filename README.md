@@ -8,14 +8,14 @@
 
 ## Steps for Execution:
 1. Clone the repo and cd into the directory
-  git clone https://github.com/cse-kiet/PCSE25-57 && cd 
+  git clone https://github.com/cse-kiet/PCSE25-57 && cd PCSE25-57
 2. ensure you have docker & docker compose installed
 3. run docker compose up --build
-4. visit localhost:5173 in any browser
+4. visit http://localhost:5173 in any browser
 5. to run the job feed, run a python virtual env for producer
    source producer/bin/activate.sh
 6. run pip install -r requirements.txt
-7  run produce.py
+7  run python produce.py
 
 ## Checklist:
 1. Final Project Report
