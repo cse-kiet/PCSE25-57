@@ -1,4 +1,4 @@
-# Title of Project: [SkillMatcher]
+# Title of Project: SkillMatcher
 
 ## Team Members:
 1. [SHIVAM RAJ]
